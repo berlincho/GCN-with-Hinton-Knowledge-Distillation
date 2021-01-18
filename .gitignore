@@ -1,0 +1,21 @@
+# macOS dir files
+.DS_Store
+
+# Compiled python
+*.pyc
+*.pyd
+
+__pycache__/
+
+# Model checkpoints
+.checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+
+# Visual Studio Code files
+.vscode
+.vs
+
